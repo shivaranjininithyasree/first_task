@@ -1,0 +1,40 @@
+*{
+    background-color: #add8ea;
+}
+
+body{
+	margin-bottom:-100px;
+}
+#about{
+	display:flex;
+	flex-direction:column;
+	box-sizing:border-box;
+	padding:20px;
+	margin-bottom:50px;
+}
+#pic{
+	display:flex;
+}
+#pic img{
+	width:1000px;
+	height:400px;
+}
+h2{
+	font-size:2rem;
+	margin-bottom:20px;
+}
+#intro{
+	display:flex;
+	flex-direction:column;
+	text-align:justify;
+	padding:10px;
+	
+}
+#intro h2{
+	font-size:2rem;
+	margin-bottom:20px;
+}
+.table{
+	width:45px;
+	
+}
