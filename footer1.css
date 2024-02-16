@@ -1,0 +1,87 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: auto;
+   
+
+}
+footer{
+       
+       
+       position:relative;
+        padding: 10px 10px 0px 10px;
+        bottom: 0%;
+        width: 100%;
+        /* Height of the footer*/
+        height:140px;
+        background-color: white;
+        color:black;
+       
+    
+
+}
+
+.main-content1{
+   
+   
+    display:flex;
+    flex-direction:row;
+    background-color: white;
+        color:black;
+    
+
+
+}
+.main-content1 .box{
+    flex-basis: 50%;
+    padding:10px ;
+    
+    background-color:white;
+        color:black;
+    
+    
+
+}
+.box h2{
+
+    font-size:1.125rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-color:white;
+        color:black;
+
+}
+.box .content{
+    margin:20px 0 0 0 ;
+}
+
+.place{
+    background-color:white;
+        color:black;
+}
+.text{
+    background-color: white;
+        color:black;
+}
+.aboutcontent{
+    background-color: white;
+        color:black;
+}
+.fas{
+    background-color: white;
+        color:black;
+}
+.fab{
+    background-color: white;
+        color:black;
+}
+a{
+    background-color: white;
+        color:black;
+}
+.social{
+    background-color: white;
+    color:black;
+}
